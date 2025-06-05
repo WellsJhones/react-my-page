@@ -55,7 +55,7 @@ return (
                     Estou estudando para ser um desenvolvedor front-end, e estou interessado em aprender mais sobre o desenvolvimento de software.
                 </p>
                 <p>
-                    Este e um portifolio criado com base no curso de Frontend na plataforma Frontend Masters
+                    Este e um portifolio criado com base no curso de Frontend na plataforma Frontend Masters.
                     <a href="https://frontendmasters.com" target="_blank" rel="noreferrer">
                         frontend Masters
                     </a>
