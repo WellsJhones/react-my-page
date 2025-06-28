@@ -52,7 +52,31 @@ function curriculum() {
             <div className="section-dkblue">
                 <section id="projects">
                     <h2>Certificados/Habilidades</h2>
-
+          <article>
+            <div class="text">
+              <h4>Estudando para certificação Oracle Cloud Infrastructure Foundations</h4>
+              <h3>OCI</h3>
+              <p class="blackbox">
+                perfect for beginners and IT professionals new to cloud computing. It covers the basics of OCI, including architecture, identity and access management (IAM), and networking. You'll also learn about compute services, container orchestration, serverless functions, storage options, database services, and security features. Moreover, the course offers invaluable insights into cost management strategies, empowering you to optimize your cloud expenditures. 
+                <a href="https://education.oracle.com/oracle-cloud-infrastructure-2024-foundations-associate/pexam_1Z0-1085-25"
+                  > aqui</a
+                >
+              </p>
+              <h4>extra:</h4>
+              <ul>
+                <li>Fundamentals of OCI</li>
+                <li>Networking in OCI</li>
+                <li>Compute Services</li>
+                <li>Storage Solutions</li>
+                <li>Database Services</li>
+                
+              </ul>
+            </div>
+            <img
+              src="assets/certificados/oci-foundations.png"
+              alt="Oracle Cloud Infrastructure Foundations Associate"
+            />
+          </article>
           <h2>AWS Academy </h2>
            <article class="reverse">
             <div class="text">
@@ -93,10 +117,10 @@ function curriculum() {
               alt="certificado Google cloud."
             />
           </article>
-          <h2>Estudando para conseguir</h2>
+          <h2>Curso Cloud Associate</h2>
            <article class="reverse">
             <div class="text">
-              <h3>certificação Engenheiro associado google cloud</h3>
+              <h3>Necessario para a certificação Engenheiro associado google cloud</h3>
               <p class="blackbox">
                O Career Readiness Associate Cloud Engineer Learning Path orienta você por uma coleção selecionada de cursos, laboratórios e emblemas de habilidades sob demanda que fornecem experiência prática no mundo real usando tecnologias do Google Cloud essenciais para a função de Engenharia de Nuvem. click 
                 <a href="https://www.cloudskillsboost.google/paths/53"
