@@ -52,14 +52,32 @@ function curriculum() {
             <div className="section-dkblue">
                 <section id="projects">
                     <h2>Certificados/Habilidades</h2>
+
+          <h2>AWS Academy </h2>
+           <article class="reverse">
+            <div class="text">
+              <h3>badge AWS Academy Cloud Foundations</h3>
+              <p class="blackbox">
+               entendimento geral dos conceitos de computação em nuvem, independentemente de funções técnicas específicas. O curso provê uma visão geral detalhada dos conceitos de nuvem, principais serviços AWS, segurança, arquitetura, definição de preço e suporte
+                <a href="https://aws.amazon.com/certification/certified-cloud-practitioner/"
+                  >aqui</a
+                > e confira
+              </p>
+            </div>
+            <img
+              src="assets/certificados/aws.png"
+              alt="Screenshot of the Wall of Wonder."
+            />
+            
+          </article>
           <article>
             <div class="text">
               <h4>Google Cloud</h4>
               <h3>Cloud Computing Introdução</h3>
               <p class="blackbox">
-                 criar e conectar uma infraestrutura de nuvem centrada em armazenamento usando os recursos básicos das seguintes tecnologias: Armazenamento em Nuvem, Gerenciamento de Identidade e Acesso, Funções de Nuvem e Pub/Sub, para saber mais click
+                 criar e conectar uma infraestrutura de nuvem centrada em armazenamento usando os recursos básicos das seguintes tecnologias: Armazenamento em Nuvem, Gerenciamento de Identidade e Acesso, Funções de Nuvem e Pub/Sub, para saber mais click 
                 <a href="https://www.cloudskillsboost.google/"
-                  >aqui</a
+                  > aqui</a
                 >
               </p>
               <h4>extra:</h4>
