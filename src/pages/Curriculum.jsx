@@ -46,7 +46,7 @@ function curriculum() {
         <p class="name">Meu nome e <span>Welington</span></p>
         <h2>Sou de Anapolis GO</h2>
         <p/>
-            Curso 5º periodo de Sistemas para Internet na Unopar (Universidade Norte do Paraná)
+            Tenho graduação em Sistemas para Internet pela Unopar (Universidade Norte do Paraná)
          </section>
             <div className="gradiente"></div>
             <div className="section-dkblue">
@@ -58,7 +58,7 @@ function curriculum() {
             <div class="text">
               <h3>badge AWS Academy Cloud Foundations</h3>
               <p class="blackbox">
-               entendimento geral dos conceitos de computação em nuvem, independentemente de funções técnicas específicas. O curso provê uma visão geral detalhada dos conceitos de nuvem, principais serviços AWS, segurança, arquitetura, definição de preço e suporte
+               entendimento geral dos conceitos de computação em nuvem, independentemente de funções técnicas específicas. O curso provê uma visão geral detalhada dos conceitos de nuvem, principais serviços AWS, segurança, arquitetura, definição de preço e suporte -
                 <a href="https://aws.amazon.com/certification/certified-cloud-practitioner/"
                   >aqui</a
                 > e confira
