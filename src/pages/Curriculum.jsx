@@ -54,7 +54,7 @@ function curriculum() {
                     <h2>Certificados/Habilidades</h2>
           <article>
             <div class="text">
-              <h4>Estudando para certificação Oracle Cloud Infrastructure Foundations</h4>
+              <h3>certificação Oracle Cloud Infrastructure Foundations</h3>
               <h3>OCI</h3>
               <p class="blackbox">
                 perfect for beginners and IT professionals new to cloud computing. It covers the basics of OCI, including architecture, identity and access management (IAM), and networking. You'll also learn about compute services, container orchestration, serverless functions, storage options, database services, and security features. Moreover, the course offers invaluable insights into cost management strategies, empowering you to optimize your cloud expenditures. 
@@ -73,7 +73,7 @@ function curriculum() {
               </ul>
             </div>
             <img
-              src="assets/certificados/oci-foundations.png"
+              src="assets/certificados/oci-associate.png"
               alt="Oracle Cloud Infrastructure Foundations Associate"
             />
           </article>
