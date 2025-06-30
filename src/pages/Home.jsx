@@ -40,6 +40,7 @@ return (
                                 <span className="sr-only">github</span>
                             </a>
                         </li>
+                        <li><Link to="/curriculum" className="button">Currículo</Link></li>
                         {/* <li><a href="./assets/pages/curriculum.html" className="button">Curriculo</a></li> */}
                     </ul>
                 </nav>
