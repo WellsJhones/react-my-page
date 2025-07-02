@@ -51,18 +51,18 @@ return (
                 <p className="name">
                     Hiiii, I'm<span>Wells Jhones.</span>
                 </p>
-                <h2>Eu sou um estudante</h2>
+                <h2>Graduado em Sistemas para Internet pela Unopar</h2>
                 <p>
-                    Estou estudando para ser um desenvolvedor front-end, e estou interessado em aprender mais sobre o desenvolvimento de software.
+                    Tenhom maior experiencia em cloud OCI, e estou interessado em aprender mais sobre o desenvolvimento de software.
                 </p>
                 <p>
-                    Este e um portifolio criado com base no curso de Frontend na plataforma Frontend Masters.
+                    Este e um portifolio front-end criado com base no curso de Frontend na plataforma Frontend Masters.
                     <a href="https://frontendmasters.com" target="_blank" rel="noreferrer">
                         frontend Masters
                     </a>
                 </p>
                 <p>
-                    Finalizei o curso One next Education 6º edition da Oracle em parceria com Alura, em Backend.
+                    Finalizei o curso One next Education 6º edition da Oracle em parceria com Alura, Java Backend.
                     <a href="https://www.oracle.com/br/education/oracle-next-education/">
                         Oracle-Alura
                     </a>
