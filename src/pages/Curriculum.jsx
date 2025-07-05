@@ -1,7 +1,9 @@
 import React from 'react'
 import { Link } from 'react-router-dom';
+import usePageTitle from '../hooks/usePageTitle';
 
-function curriculum() {
+function Curriculum() {
+  usePageTitle('Currículo');
   return (
     <div>
      <header>
@@ -199,4 +201,4 @@ function curriculum() {
   )
 }
 
-export default curriculum
+export default Curriculum
