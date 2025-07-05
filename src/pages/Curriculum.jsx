@@ -52,6 +52,15 @@ function curriculum() {
             <div className="section-dkblue">
                 <section id="projects">
                     <h2>Certificados/Habilidades</h2>
+                    <article className="certificates">
+                       <div className="certificate-badges">
+                           <img src="https://eu.api.accredible.com/v1/frontend/credential_website_embed_image/badge/15237900" alt="Accredible Certificate Badge" className="certificate-badge" />  
+                           <img src="https://eu.api.accredible.com/v1/frontend/credential_website_embed_image/badge/15181114" alt="Accredible Certificate Badge" className="certificate-badge" /> 
+                           <img src="https://eu.api.accredible.com/v1/frontend/credential_website_embed_image/badge/15006642" alt="Accredible Certificate Badge" className="certificate-badge" />
+                           <img src="https://eu.api.accredible.com/v1/frontend/credential_website_embed_image/badge/14886290" alt="Accredible Certificate Badge" className="certificate-badge" />
+                       </div>
+                    </article>
+                    
           <article>
             <div class="text">
               <h3>certificação Oracle Cloud Infrastructure Foundations</h3>
